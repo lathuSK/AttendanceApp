@@ -125,3 +125,12 @@ C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\ru\Microsoft.Co
 C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\VBRASIA\AttendanceApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
